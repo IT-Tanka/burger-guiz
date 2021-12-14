@@ -6,6 +6,7 @@ training project
   ## languages:
   - HTML
   - CSS
+  - JS
   
   ## library
   - bootstap
