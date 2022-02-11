@@ -1,5 +1,5 @@
 # burger-guiz
-🍔 Quiz about burger you like
+## 🍔 Quiz about burger you like
 
 training project
 ### used 
